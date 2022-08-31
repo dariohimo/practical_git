@@ -1,1 +1,3 @@
 git readme
+
+change config
